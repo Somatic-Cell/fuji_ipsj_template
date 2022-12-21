@@ -1,0 +1,1 @@
+# fuji_ipsj_template
